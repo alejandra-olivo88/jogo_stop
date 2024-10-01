@@ -74,3 +74,4 @@ generateLetterButton.addEventListener("click", () => {
     clearInterval(timer); // Limpa o cronômetro anterior, se existir
     startTimer(60);
 });
+
